@@ -24,5 +24,5 @@ Using your knowledge of TensorFlow, you’ll design a neural network, or deep le
 ## Step 3: Optimize the Model
 Using your knowledge of TensorFlow, optimize your model to achieve a target predictive accuracy higher than 75%.
 ## Step 4: Write a Report on the Neural Network Model
-Report can be found here
+Report can be found [here](https://github.com/faceadversity/deep-learning-challenge/blob/main/deep_challenge/Analysis%20Report.md)
     
